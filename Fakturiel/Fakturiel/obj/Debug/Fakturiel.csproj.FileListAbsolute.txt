@@ -1,7 +1,0 @@
-C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Fakturiel\bin\Debug\Fakturiel.exe.config
-C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Fakturiel\bin\Debug\Fakturiel.exe
-C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Fakturiel\bin\Debug\Fakturiel.pdb
-C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Fakturiel\obj\Debug\Fakturiel.csproj.AssemblyReference.cache
-C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Fakturiel\obj\Debug\Fakturiel.csproj.CoreCompileInputs.cache
-C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Fakturiel\obj\Debug\Fakturiel.exe
-C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Fakturiel\obj\Debug\Fakturiel.pdb
