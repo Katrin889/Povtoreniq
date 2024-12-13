@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Sumirane na chisla\bin\Debug\Sumirane na chisla.exe.config
+C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Sumirane na chisla\bin\Debug\Sumirane na chisla.exe
+C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Sumirane na chisla\bin\Debug\Sumirane na chisla.pdb
+C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Sumirane na chisla\obj\Debug\Sumirane na chisla.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Sumirane na chisla\obj\Debug\Sumirane na chisla.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Sumirane na chisla\obj\Debug\Sumirane na chisla.exe
+C:\Users\1409-11\Desktop\9a Katrin\Fakturiel\Sumirane na chisla\obj\Debug\Sumirane na chisla.pdb
